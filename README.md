@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Code Snippet Manager
 
 A complete desktop application for managing code snippets built with **Java Swing**, **MongoDB**, and modern UI components.
@@ -244,3 +245,6 @@ Created for academic submission and viva demonstration.
 ---
 
 **Happy Coding! 🚀**
+=======
+# CodeSnippetManager
+>>>>>>> a8c53790171c16741be575649d366fd559008538
